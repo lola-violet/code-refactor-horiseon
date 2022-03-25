@@ -20,8 +20,15 @@ The edits I provided have made the site significantly more accessible: people wi
 
 ## Link
 
+[Deployed-App](https://lola-violet.github.io/code-refactor-horiseon/)
+
 
 ## Image
+
+![Screenshot-1](./assets/images/Horiseon-screenshot-1.png)
+
+![Screenshot-2](./assets/images/Horiseon-screenshot-2.png)
+
 
 ## User Story Provided
 
