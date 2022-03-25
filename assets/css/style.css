@@ -55,7 +55,7 @@ header nav ul li {
 }
 
 /* Banner Image */
-.hero section {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -84,7 +84,7 @@ main {
 
 
 /* Sections within Main Block */
-.service section {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -93,7 +93,7 @@ main {
     color: #ffffff;
 }
 
-.service section img {
+section img {
     max-height: 200px;
 }
 
@@ -114,7 +114,7 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit section {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }

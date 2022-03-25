@@ -16,14 +16,12 @@ The edits I provided have made the site significantly more accessible: people wi
 * Additional spacing between tags & elements for clarity
 * Semantic tags in HTML
 * Commented out CSS elements for readability
-* Consise CSS elements without unnecessary & overwhelming repetition
+* Concise CSS elements without unnecessary & overwhelming repetition
 
 ## Link
 
 
 ## Image
-
-
 
 ## User Story Provided
 
